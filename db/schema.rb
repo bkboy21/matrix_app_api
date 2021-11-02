@@ -22,3 +22,4 @@ ActiveRecord::Schema.define(version: 2021_11_01_202619) do
   end
 
 end
+quit
