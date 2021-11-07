@@ -7,8 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Character.create([
-	{ name: "Neo", description: false },
-	{ name: "Trinity", description: false },
-	{ name: "Morpheus", description: false },
-	{ name: "Agent Smith", description: false },
+	{ name: "Neo", description: "Neo (born as Thomas A. Anderson" },
+	{ name: "Trinity", description: "She is portrayed by Carrie-Anne Moss" },
+	{ name: "Morpheus", description: "portrayed by Laurence Fishburne" },
+	{ name: "Agent Smith", description: "He was portrayed by Hugo Weaving" },
 ])
